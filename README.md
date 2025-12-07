@@ -1,10 +1,10 @@
-# í¼¾ CropSense â€“ Smart Weather-Based Crop Advisory System  
+# ï¿½ï¿½ï¿½ CropSense â€“ Smart Weather-Based Crop Advisory System  
 **PDB Name:** AG_27320_CROP_SENSE_PROJECT  
-**Student:** Agape Gift  
+**NAMES:** Agape Gift  ID: 27320
 
 ---
 
-## í³Œ Project Overview
+## ï¿½ï¿½ï¿½ Project Overview
 CropSense is a PL/SQL-powered intelligent crop advisory system that analyzes weather patterns, soil moisture, and temperature to automatically generate irrigation and crop protection recommendations for farmers.
 
 The system uses advanced PL/SQL features including:
@@ -20,44 +20,44 @@ All components are included in the folders below.
 
 ---
 
-## í³ Folder Structure  
-### í» ï¸ 1. Base Schema  
+## ï¿½ï¿½ï¿½ Folder Structure  
+### ï¿½ï¿½ï¿½ï¸ 1. Base Schema  
 Contains table creation scripts.  
 â¡ï¸ [01_schema/base_system.sql](01_schema/base_system.sql)
 
-### í¼± 2. Sample Data  
+### ï¿½ï¿½ï¿½ 2. Sample Data  
 Contains scripts to insert 100+ dummy weather & farm records.  
 â¡ï¸ [02_sample_data/sample_data.sql](02_sample_data/sample_data.sql)
 
-### í´ 3. Phase 1 â€“ Data Mapping  
+### ï¿½ï¿½ï¿½ 3. Phase 1 â€“ Data Mapping  
 â¡ï¸ [03_phase1_mappings/phase1_mappings.sql](03_phase1_mappings/phase1_mappings.sql)
 
-### í³Š 4. Phase 2 â€“ Advisory Engine  
+### ï¿½ï¿½ï¿½ 4. Phase 2 â€“ Advisory Engine  
 â¡ï¸ [04_phase2_advisor/phase2_advisor.sql](04_phase2_advisor/phase2_advisor.sql)
 
-### í³¢ 5. Phase 3 â€“ Notification Service  
+### ï¿½ï¿½ï¿½ 5. Phase 3 â€“ Notification Service  
 â¡ï¸ [05_phase3_notifications/phase3_notifications.sql](05_phase3_notifications/phase3_notifications.sql)
 
-### í³ˆ 6. Phase 4 â€“ Dashboard + Views  
+### ï¿½ï¿½ï¿½ 6. Phase 4 â€“ Dashboard + Views  
 â¡ï¸ [06_phase4_dashboard/phase4_dashboard.sql](06_phase4_dashboard/phase4_dashboard.sql)
 
-### í´— 7. Integration Tests  
+### ï¿½ï¿½ï¿½ 7. Integration Tests  
 â¡ï¸ [07_integration_test/run_all.sql](07_integration_test/run_all.sql)
 
-### í´„ 8. Daily Operations  
+### ï¿½ï¿½ï¿½ 8. Daily Operations  
 â¡ï¸ [08_daily_operations/daily_ops.sql](08_daily_operations/daily_ops.sql)
 
 ---
 
-## í³¸ Screenshots  
+## ï¿½ï¿½ï¿½ Screenshots  
 Add screenshots from SQL Developer, OEM, PDB creation, test results, etc.  
 Folder: `/screenshots`
 
-## í¶¼ Diagrams  
+## ï¿½ï¿½ï¿½ Diagrams  
 ERD, UML, BPMN diagrams for the project.  
 Folder: `/diagrams`
 
-## í³ Reports  
+## ï¿½ï¿½ï¿½ Reports  
 Final project report (DOCX or PDF).  
 Folder: `/reports`
 
