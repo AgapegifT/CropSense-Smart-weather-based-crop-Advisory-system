@@ -1,1 +1,0 @@
--- Daily operations SQL
