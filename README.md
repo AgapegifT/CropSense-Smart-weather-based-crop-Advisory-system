@@ -49,15 +49,6 @@ Contains scripts to insert 100+ dummy weather & farm records.
 
 ---
 
-## ��� Screenshots  
-Add screenshots from SQL Developer, OEM, PDB creation, test results, etc.  
-Folder: `/screenshots`
 
-## ��� Diagrams  
-ERD, UML, BPMN diagrams for the project.  
-Folder: `/diagrams`
 
-## ��� Reports  
-Final project report (DOCX or PDF).  
-Folder: `/reports`
-
+<img width="1024" height="1536" alt="Cropsense ERD" src="https://github.com/user-attachments/assets/37a5104e-a757-4c1c-ac56-ee3d52061cf2" />
