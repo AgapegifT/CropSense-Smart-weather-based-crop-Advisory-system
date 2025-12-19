@@ -51,4 +51,8 @@ Contains scripts to insert 100+ dummy weather & farm records.
 
 CROPSENSE ERD
 
-<img width="820" height="506" alt="Cropsense ERD" src="https://github.com/user-attachments/assets/37a5104e-a757-4c1c-ac56-ee3d52061cf2" />
+<img width="1020" height="1506" alt="Cropsense ERD" src="https://github.com/user-attachments/assets/37a5104e-a757-4c1c-ac56-ee3d52061cf2" />
+
+CROPSENSE's BI
+
+<img width="1020" height="1506" alt="Cropsense BI" src="https://github.com/user-attachments/assets/0be0c97b-2bce-49f2-ac51-2abe3bad53f3" />
